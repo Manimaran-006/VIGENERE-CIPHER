@@ -91,7 +91,7 @@ return 0;
 }
 ```
 ## OUTPUT
-<img width="1917" height="1152" alt="image" src="https://github.com/user-attachments/assets/2d249ed7-d0c5-4f82-9a95-f98e4fc8e5b2" />
+<img width="442" height="260" alt="image" src="https://github.com/user-attachments/assets/8f5853f5-8991-495a-8c5b-9c6b10c6a576" />
 
 ## RESULT
 Thus, the Vigenère cipher encryption program was implemented successfully using C language.
